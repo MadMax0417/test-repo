@@ -1,6 +1,7 @@
 
 hey this is a text file.
 
+hey this is stash
 
 this is test
 
