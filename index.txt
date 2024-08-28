@@ -5,6 +5,7 @@ hey this is stash
 
 this is test
 
+added fixes for purple mode
 
 
 added footer
