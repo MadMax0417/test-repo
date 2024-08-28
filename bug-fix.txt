@@ -4,6 +4,6 @@ this is second bugged fixed on main branched
 
 
 
-
+this is new line i added for git diff --staged
 
 footer bug fixed
