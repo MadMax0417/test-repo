@@ -1,1 +1,10 @@
 git and github
+
+
+Github alternatives : -
+    gitlab
+    bitbucket
+    azure repo
+    gitea
+
+add one more message 
